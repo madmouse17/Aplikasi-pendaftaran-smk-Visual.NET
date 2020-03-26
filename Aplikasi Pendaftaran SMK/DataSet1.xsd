@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="dbsiswaConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="dbsiswaConnectionString (MySettings)" PropertyReference="ApplicationSettings.Aplikasi_Pendaftaran_SMK.My.MySettings.GlobalReference.Default.dbsiswaConnectionString" Provider="System.Data.Odbc" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTable1TableAdapter" GeneratorDataComponentClassName="DataTable1TableAdapter" Name="DataTable1" UserDataComponentName="DataTable1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="dbsiswaConnectionString (MySettings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        `no`, id_test, nama, asal, jurusan, ruangan, mtk, bi, kejuruan, bing, rata, ket
+FROM            tbnilai</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="no" DataSetColumn="no" />
+              <Mapping SourceColumn="id_test" DataSetColumn="id_test" />
+              <Mapping SourceColumn="nama" DataSetColumn="nama" />
+              <Mapping SourceColumn="asal" DataSetColumn="asal" />
+              <Mapping SourceColumn="jurusan" DataSetColumn="jurusan" />
+              <Mapping SourceColumn="ruangan" DataSetColumn="ruangan" />
+              <Mapping SourceColumn="mtk" DataSetColumn="mtk" />
+              <Mapping SourceColumn="bi" DataSetColumn="bi" />
+              <Mapping SourceColumn="kejuruan" DataSetColumn="kejuruan" />
+              <Mapping SourceColumn="bing" DataSetColumn="bing" />
+              <Mapping SourceColumn="rata" DataSetColumn="rata" />
+              <Mapping SourceColumn="ket" DataSetColumn="ket" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="no" msprop:Generator_ColumnVarNameInTable="columnno" msprop:Generator_ColumnPropNameInRow="no" msprop:Generator_ColumnPropNameInTable="noColumn" msprop:Generator_UserColumnName="no">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="11" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="id_test" msprop:Generator_ColumnVarNameInTable="columnid_test" msprop:Generator_ColumnPropNameInRow="id_test" msprop:Generator_ColumnPropNameInTable="id_testColumn" msprop:Generator_UserColumnName="id_test">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="21" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nama" msprop:Generator_ColumnVarNameInTable="columnnama" msprop:Generator_ColumnPropNameInRow="nama" msprop:Generator_ColumnPropNameInTable="namaColumn" msprop:Generator_UserColumnName="nama">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="26" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="asal" msprop:Generator_ColumnVarNameInTable="columnasal" msprop:Generator_ColumnPropNameInRow="asal" msprop:Generator_ColumnPropNameInTable="asalColumn" msprop:Generator_UserColumnName="asal">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="26" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="jurusan" msprop:Generator_ColumnVarNameInTable="columnjurusan" msprop:Generator_ColumnPropNameInRow="jurusan" msprop:Generator_ColumnPropNameInTable="jurusanColumn" msprop:Generator_UserColumnName="jurusan">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="26" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ruangan" msprop:Generator_ColumnVarNameInTable="columnruangan" msprop:Generator_ColumnPropNameInRow="ruangan" msprop:Generator_ColumnPropNameInTable="ruanganColumn" msprop:Generator_UserColumnName="ruangan">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="12" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="mtk" msprop:Generator_ColumnVarNameInTable="columnmtk" msprop:Generator_ColumnPropNameInRow="mtk" msprop:Generator_ColumnPropNameInTable="mtkColumn" msprop:Generator_UserColumnName="mtk" type="xs:int" />
+              <xs:element name="bi" msprop:Generator_ColumnVarNameInTable="columnbi" msprop:Generator_ColumnPropNameInRow="bi" msprop:Generator_ColumnPropNameInTable="biColumn" msprop:Generator_UserColumnName="bi" type="xs:int" />
+              <xs:element name="kejuruan" msprop:Generator_ColumnVarNameInTable="columnkejuruan" msprop:Generator_ColumnPropNameInRow="kejuruan" msprop:Generator_ColumnPropNameInTable="kejuruanColumn" msprop:Generator_UserColumnName="kejuruan" type="xs:int" />
+              <xs:element name="bing" msprop:Generator_ColumnVarNameInTable="columnbing" msprop:Generator_ColumnPropNameInRow="bing" msprop:Generator_ColumnPropNameInTable="bingColumn" msprop:Generator_UserColumnName="bing" type="xs:int" />
+              <xs:element name="rata" msprop:Generator_ColumnVarNameInTable="columnrata" msprop:Generator_ColumnPropNameInRow="rata" msprop:Generator_ColumnPropNameInTable="rataColumn" msprop:Generator_UserColumnName="rata" type="xs:float" />
+              <xs:element name="ket" msprop:Generator_ColumnVarNameInTable="columnket" msprop:Generator_ColumnPropNameInRow="ket" msprop:Generator_ColumnPropNameInTable="ketColumn" msprop:Generator_UserColumnName="ket">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="26" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DataTable1" />
+      <xs:field xpath="mstns:no" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

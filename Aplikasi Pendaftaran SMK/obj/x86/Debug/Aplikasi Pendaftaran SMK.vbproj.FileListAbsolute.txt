@@ -1,0 +1,26 @@
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\obj\x86\Debug\Aplikasi Pendaftaran SMK.vbprojResolveAssemblyReference.cache
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\obj\x86\Debug\Aplikasi_Pendaftaran_SMK.Daftar.resources
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\obj\x86\Debug\Aplikasi_Pendaftaran_SMK.Login.resources
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\obj\x86\Debug\Aplikasi_Pendaftaran_SMK.Form_Menu.resources
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\obj\x86\Debug\Aplikasi_Pendaftaran_SMK.Input.resources
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\obj\x86\Debug\Aplikasi_Pendaftaran_SMK.inputnilai.resources
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\obj\x86\Debug\Aplikasi_Pendaftaran_SMK.kartutest.resources
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\obj\x86\Debug\Aplikasi_Pendaftaran_SMK.Resources.resources
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\obj\x86\Debug\Aplikasi_Pendaftaran_SMK.Nilai.resources
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\obj\x86\Debug\Aplikasi_Pendaftaran_SMK.print.resources
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\obj\x86\Debug\Aplikasi_Pendaftaran_SMK.registrasi.resources
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\obj\x86\Debug\Aplikasi Pendaftaran SMK.vbproj.GenerateResource.Cache
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\obj\x86\Debug\RdlCompile.cache
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\obj\x86\Debug\RdlCompile.compiled
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\bin\Debug\Aplikasi Pendaftaran SMK.exe.config
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\bin\Debug\Aplikasi Pendaftaran SMK.exe
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\bin\Debug\Aplikasi Pendaftaran SMK.pdb
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\bin\Debug\Aplikasi Pendaftaran SMK.xml
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\obj\x86\Debug\Aplikasi Pendaftaran SMK.exe
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\obj\x86\Debug\Aplikasi Pendaftaran SMK.xml
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\obj\x86\Debug\Aplikasi Pendaftaran SMK.pdb
+E:\KULIAH\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\obj\x86\Debug\Aplikasi_Pendaftaran_SMK.cetakhasil.resources
+E:\KULIAH\Semester 3\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\bin\Debug\Aplikasi Pendaftaran SMK.exe.config
+E:\KULIAH\Semester 3\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\obj\x86\Debug\Aplikasi Pendaftaran SMK.exe
+E:\KULIAH\Semester 3\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\obj\x86\Debug\Aplikasi Pendaftaran SMK.xml
+E:\KULIAH\Semester 3\Visual.NET\UAS\Aplikasi Pendaftaran SMK\Aplikasi Pendaftaran SMK\obj\x86\Debug\Aplikasi Pendaftaran SMK.pdb
